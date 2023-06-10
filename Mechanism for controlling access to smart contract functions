@@ -1,1 +1,15 @@
+A mechanism for controlling access to smart contract functions by checking execution permissions. 
+To do this, you can use function modifiers that allow you to check the conditions before executing the function code.
 
+To prevent the contract from executing its functions until the creator of the contract gives permission to do so, 
+you can add a variable to the contract that stores the address of the contract owner. Then you need to add a function 
+modifier that will check that the calling address is the owner of the contract. If the calling address does not match the contract owner, 
+the function will not be executed.
+
+How do you do that?
+The doSomething function has two modifiers: onlyOwner and onlyAllowed. 
+The onlyOwner modifier requires the calling address to be equal to the contract owner's address. 
+The onlyAllowed modifier checks the allowExecution flag, which can be changed only by the contract owner with the setAllowExecution function. 
+If the flag is set to false, the execution of the doSomething function will be forbidden.
+
+The implementation of this contract can be seen here: 
