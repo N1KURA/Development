@@ -12,6 +12,18 @@ The onlyOwner modifier requires the calling address to be equal to the contract 
 The onlyAllowed modifier checks the allowExecution flag, which can be changed only by the contract owner with the setAllowExecution function. 
 If the flag is set to false, the execution of the doSomething function will be forbidden.
 
+This smart contract is a basic template that can be used to create contracts on the Ethereum platform. It includes two modifiers, 
+onlyOwner and onlyAllowed, which determine who can call the contract functions.
+
+In addition, the contract has a variable owner, which stores the address of the creator of the contract, and a variable allowExecution, 
+a flag allowing execution of contract functions. There are also two functions - doSomething() and setAllowExecution(), 
+which can only be called by the contract owner (onlyOwner) and only when the allowExecution flag is set (onlyAllowed).
+
+The doSomething() function has no specific implementation and can be replaced by any other function you want to execute within the contract.
+
+The setAllowExecution(bool _allow) function is used to change the value of the allowExecution flag. If this flag is set to false, 
+all contract functions will be blocked, but if it is set to true, the functions can be called. This function can only be called by the owner of the contract (onlyOwner).
+
 The implementation of this contract can be seen here: https://github.com/N1KURA/N1KURAcontracts/blob/main/N1KURAaccessContract.sol
 
 All material from the https://github.com/N1KURA/ repositories is covered by a software copyright license. Read all permissions here: https://github.com/N1KURA/N1KURAcontracts/blob/main/README.md
