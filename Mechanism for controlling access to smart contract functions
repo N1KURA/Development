@@ -26,4 +26,4 @@ all contract functions will be blocked, but if it is set to true, the functions 
 
 The implementation of this contract can be seen here: https://github.com/N1KURA/N1KURAcontracts/blob/main/N1KURAaccessContract.sol
 
-All material from the https://github.com/N1KURA/ repositories is covered by a software copyright license. Read all permissions here: https://github.com/N1KURA/N1KURAcontracts/blob/main/README.md
+All material from the https://github.com/N1KURA/ repositories is covered by a software copyright license. Read all permissions here: https://github.com/N1KURA/Development/blob/main/LICENSE
