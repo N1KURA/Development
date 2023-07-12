@@ -1,27 +1,54 @@
-N1KURA License
+License xN1 (N1KURA License)
+
+Article 1: Introduction
+
+The xN1 (N1KURA License) is a restricted license designed to protect software, smart contracts, and other developments. This license prohibits any use, copying, distribution, sale, or merging of smart contracts, code, and developments under this license.
+
+Article 2: Prohibited Usage
+
+All software, smart contracts, and other developments published or distributed under the xN1 license are strictly prohibited from being used by any third parties or individuals without explicit written permission from the rights holder. Copying, reproduction, distribution, sale, or merging is strictly prohibited.
+
+Article 3: Copyright Protection
+
+The rights holder retains all intellectual property rights associated with the software, smart contracts, and other developments under the xN1 license. Any infringement of copyright will be fully prosecuted under the law.
+
+Article 4: Usage Restrictions
+
+The xN1 license prohibits the use of software, smart contracts, and other developments for any commercial or non-commercial purposes without explicit written permission from the rights holder. This means you may not sell, distribute, or provide any form of usage for profit without explicit consent from the rights holder.
+
+Article 5: Modification Prohibition
+
+The xN1 license also prohibits any modifications, alterations, or adaptations of the software, smart contracts, or other developments protected under this license without written permission from the rights holder. All derivative works based on this license are also subject to restrictions and require explicit permission from the rights holder.
+
+Article 6: License Termination
+
+The rights holder reserves the right to revoke or terminate this license at any time without prior notice. Upon termination, all rights granted under this license are automatically revoked, and immediate cessation of use of the software, smart contracts, or developments protected under this license is required.
+
+Article 7: Disclaimer of Warranty
+
+The xN1 license is provided "as is" without any express or implied warranties. The rights holder is not liable for any damages, direct or indirect, associated with the use of the software, smart contracts, or developments under this license. Users and third parties use the software at their own risk.
+
+Article 8: Applicable Law
+
+This license shall be governed and interpreted in accordance with the laws of the country in which it is applied. Any conflicts or disputes arising from this license shall be resolved through mandatory arbitration under applicable arbitration rules.
+
+Article 9: Changes to the License
+
+The rights holder reserves the right to modify the terms of this license at any time without prior notice. The changes come into effect upon publication. Users are advised to periodically review the license terms for any updates.
+
+Article 10: Final Provisions
+
+If any provision of this license is found to be invalid or unenforceable under applicable law, the remaining provisions of the license shall remain in full force and effect. Any waiver of rights or obligations under this license shall not be construed as a waiver of such rights or obligations in the future.
+
+Conclusion:
+
+The xN1 (N1KURA License) prohibits any use, copying, distribution, sale, or merging of software, smart contracts, and developments under this license without explicit written permission from the rights holder. This license stands in complete opposition to the principles of openness, collaboration, and freedom of use that underlie most open-source and free licenses.
+
 
 Copyright (c) 2023 N1KURA [0xN1KURA]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-of this software and the accompanying documentation files ("Software"), to transact with the
-with the Software without restriction, including, without limitation, the rights to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is provided
-do so, subject to the following conditions:
-
-The above copyright notice and this permission notice must be included in all
-copies or substantial portions of the Software, in the form set forth below:
 
 // Created by N1KURA
 // GitHUB: https://github.com/N1KURA
 // Twitter: https://twitter.com/0xN1KURA
 // Telegram: https://t.me/N1KURA
 
-Only as described above and not any other way.
-
-THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. UNDER NO CIRCUMSTANCES
-THE AUTHORS OR COPYRIGHT HOLDERS ARE NOT LIABLE FOR ANY CLAIMS, DAMAGES OR OTHER
-LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE, ARISING
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
